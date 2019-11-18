@@ -1,0 +1,6 @@
+use unibo_nursing_home
+db.createCollection("unibos")
+db.createCollection("users")
+db.createCollection("elderlies")
+db.createCollection("companies")
+
